@@ -6,3 +6,5 @@ List of Projects Added:
 1. BMI calculator
 2. Leap Year Detector
 3. Password Generator
+4. Prime Number Checker
+5. Rock Paper and scissors
