@@ -8,3 +8,5 @@ List of Projects Added:
 3. Password Generator
 4. Prime Number Checker
 5. Rock Paper and scissors
+6. Roller Coaster Ticket Counter 
+7. Treasure Hunt
