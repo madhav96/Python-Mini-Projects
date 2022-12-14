@@ -10,3 +10,4 @@ List of Projects Added:
 5. Rock Paper and scissors
 6. Roller Coaster Ticket Counter 
 7. Treasure Hunt
+8. Caesar Cipher
