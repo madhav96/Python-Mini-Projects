@@ -11,3 +11,5 @@ List of Projects Added:
 6. Roller Coaster Ticket Counter 
 7. Treasure Hunt
 8. Caesar Cipher
+9. Love Calculator
+
